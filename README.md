@@ -5,7 +5,7 @@ The requirements for this project can be installed using:
 "pip install -r requirements.txt"
 
 Add the dataset to DVC using:
-"dvc init"
+"dvc init" ->
 "dvc add data_given/winequality.csv"
 
 The parameters for the model are set in params.yaml file. Feel free to play around with it.
